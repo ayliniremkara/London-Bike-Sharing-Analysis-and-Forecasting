@@ -1,4 +1,5 @@
 **London Bike Sharing Analysis and Forecasting 🚲📊**
+
 This project explores and analyzes the London bike-sharing dataset. The dataset contains detailed information about bike rentals, weather conditions, and time-based data points, enabling data-driven insights and forecasts. The analysis includes data preparation, statistical summary generation, and preparation for visualization using Tableau.
 
 **Table of Contents**
