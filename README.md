@@ -70,6 +70,8 @@ Average Rentals: 1,143 bikes rented daily, with significant fluctuations (std: 1
   
 Visualization: The data has been saved as an Excel file (london_bikes_sharing_analysis.xlsx) for further visualization and exploration in Tableau.
 
+You can view the interactive Tableau dashboard here: [Tableau Public Dashboard](https://public.tableau.com/views/LondonBikeSharingDashboard_17365424694300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 Forecasting: Implement machine learning models to forecast bike rentals based on weather and temporal patterns.
 
 **Tools Used**
