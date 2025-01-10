@@ -65,19 +65,18 @@ Tableau: For interactive visualizations.
 **How to Run**
 
 1. Clone the repository:
-2.
 ```
 git clone git@github.com:<your-username>/London-Bike-Sharing-Analysis-and-Forecasting.git
 cd London-Bike-Sharing-Analysis-and-Forecasting
 ```
 
-3. Install required Python libraries:
+2. Install required Python libraries:
 
 ```
 pip install pandas numpy matplotlib openpyxl
 ```
-5. Run the Jupyter notebook or Python script to process the data.
-6. Open london_bikes_sharing_analysis.xlsx in Tableau to visualize insights.
+3. Run the Jupyter notebook or Python script to process the data.
+4. Open _london_bikes_sharing_analysis.xlsx_ in Tableau to visualize insights.
 
 
 Feel free to contribute, report issues, or suggest enhancements! 🚀
