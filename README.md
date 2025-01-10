@@ -11,9 +11,11 @@ Insights and Observations
 Next Steps
 
 **Introduction**
+
 Bike-sharing systems play a significant role in urban mobility. This analysis leverages Python for data processing and prepares the dataset for visualization in Tableau. The goal is to uncover trends, patterns, and actionable insights about bike rentals in London.
 
 **Data Understanding**
+
 The dataset, london_merged.csv, contains 17,414 rows and 10 columns:
 
   time: Timestamp of the record.
@@ -28,6 +30,7 @@ The dataset, london_merged.csv, contains 17,414 rows and 10 columns:
   season: Meteorological season (e.g., Winter, Summer, etc.).
   
 **Data Preparation**
+
 Key steps taken to prepare the data:
 
 1. Renaming Columns: Improved readability by renaming columns to more descriptive names.
@@ -40,6 +43,7 @@ Key steps taken to prepare the data:
 6. NULL Value Check: Confirmed there are no missing values.
    
 **Insights and Observations**
+
 Average Rentals: 1,143 bikes rented daily, with significant fluctuations (std: 1,085).
 - Temperature Range: From -1.5°C to 34°C, representing all seasons.
 - Humidity Impact: High average humidity (72.3%), potentially influencing bike rentals.
@@ -47,16 +51,19 @@ Average Rentals: 1,143 bikes rented daily, with significant fluctuations (std: 1
     Holidays: Rare in the dataset (~2% of days).
     Weekends: Comprise ~28% of the dataset.
 - Peak Rentals: Maximum daily rentals reached 7,860, indicating high demand on busy days.
-- 
+  
 **Next Steps**
+  
 Visualization: The data has been saved as an Excel file (london_bikes_sharing_analysis.xlsx) for further visualization and exploration in Tableau.
 Forecasting: Implement machine learning models to forecast bike rentals based on weather and temporal patterns.
 
 **Tools Used**
+
 Python: pandas, numpy, matplotlib for data processing.
 Tableau: For interactive visualizations.
 
 **How to Run**
+
 1. Clone the repository:
 git clone git@github.com:<your-username>/London-Bike-Sharing-Analysis-and-Forecasting.git
 cd London-Bike-Sharing-Analysis-and-Forecasting
