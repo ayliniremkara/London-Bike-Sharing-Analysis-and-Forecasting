@@ -5,9 +5,13 @@ This project explores and analyzes the London bike-sharing dataset. The dataset 
 **Table of Contents**
 
 Introduction
+
 Data Understanding
+
 Data Preparation
+
 Insights and Observations
+
 Next Steps
 
 **Introduction**
