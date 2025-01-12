@@ -18,7 +18,8 @@ Next Steps
 
 Bike-sharing systems play a significant role in urban mobility. This analysis leverages Python for data processing and prepares the dataset for visualization in Tableau. The goal is to uncover trends, patterns, and actionable insights about bike rentals in London.
 
-Data obtained from Kaggle: [London Bike Sharing Dataset]([https://public.tableau.com/views/LondonBikeSharingDashboard_17365424694300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data))
+Data obtained from Kaggle: [London Bike Sharing Dataset](https://public.tableau.com/views/LondonBikeSharingDashboard_17365424694300/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset/data))
+
 
 **Data Understanding**
 
